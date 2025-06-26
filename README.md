@@ -6,4 +6,4 @@
 
 https://cjango.com
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjango&theme=monokai&layout=compact&hide=javascript,html,blade,css" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonencode&theme=monokai&layout=compact&hide=javascript,html,blade,css" />
