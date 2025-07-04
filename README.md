@@ -2,7 +2,7 @@
 
 ### Hello 👋
 
-🇨🇳 Harbin,China・🕹Web developer
+CN Harbin,China・🕹Web developer
 
 https://cjango.com
 
