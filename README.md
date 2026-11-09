@@ -15,6 +15,11 @@
 - [opencode-tokenwatch](https://github.com/jasonencode/opencode-tokenwatch) — OpenCode CLI 实时 Token 用量统计、缓存分析与性能指标插件
 
 <p align="center">
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=jasonencode&show_icons=true&theme=monokai" alt="GitHub stats" />
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonencode&theme=monokai&layout=compact&hide=javascript,html,blade,css" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasonencode&theme=monokai" alt="Profile details" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jasonencode&theme=monokai&exclude=javascript,html,blade,css" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jasonencode&theme=monokai&exclude=javascript,html,blade,css" alt="Most commit language" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jasonencode&theme=monokai" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jasonencode&theme=monokai&timeZone=Asia/Shanghai" alt="Productive time" />
 </p>
