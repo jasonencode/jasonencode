@@ -15,11 +15,15 @@
 - [opencode-tokenwatch](https://github.com/jasonencode/opencode-tokenwatch) — OpenCode CLI 实时 Token 用量统计、缓存分析与性能指标插件
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasonencode&theme=monokai" alt="Profile details" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jasonencode&theme=monokai&exclude=javascript,html,blade,css" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jasonencode&theme=monokai&exclude=javascript,html,blade,css" alt="Most commit language" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jasonencode&theme=monokai" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jasonencode&theme=monokai&timeZone=Asia/Shanghai" alt="Productive time" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasonencode&theme=monokai" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jasonencode&theme=monokai&exclude=javascript,html,blade,css" alt="Repos per language" />
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jasonencode&theme=monokai&exclude=javascript,html,blade,css" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jasonencode&theme=monokai" alt="GitHub stats" />
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jasonencode&theme=monokai&timeZone=Asia/Shanghai" alt="Productive time" />
 </p>
